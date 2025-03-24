@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true">
+        <!-- 其他配置 -->
+    </base-config>
+    <!-- 可以添加其他域配置，如特定域的信任管理等 -->
+</network-security-config>
